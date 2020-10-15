@@ -16,7 +16,7 @@ As part of overall design, prioritize where to invest the available resources; f
 
 Before defining the policies, consider:
 - How is the organization’s security monitored, audited, and reported? Is there mandatory reporting? 
-- Are the existing security practices are working? 
+- Are the existing security practices working? 
 - Are there new requirements? 
 - Are there any requirements specific to industry, government, or regulatory requirements?
 
